@@ -1,6 +1,6 @@
 ########### These MUST be filled in for a storm configuration
 default['storm']['storm_yaml']['nimbus.host'] = ''
-default['storm']['storm_yaml']['storm.zookeeper.servers'] = ['']
+default['storm']['storm_yaml']['storm.zookeeper.servers'] = []
 #
 #
 # ##### These may optionally be filled in:
